@@ -1,0 +1,6 @@
+time,car_id,distance_ahead_m,relative_speed_kmh
+0,CAR_22,50.0,-2.0
+1,CAR_22,47.5,-1.5
+2,CAR_44,60.2,1.0
+3,CAR_44,58.1,-0.5
+4,CAR_22,49.0,-3.2
