@@ -1,0 +1,16 @@
+{
+    "speed_kmh": 285,
+    "cornering": false,
+    "track_temp": 37.5,
+    "competitor_proximity": 0.7,
+    "track_surface": "dry",
+    "weather": "cloudy",
+    "air_temp_c": 26.0,
+    "wind_speed_kmh": 10,
+    "humidity_percent": 50,
+    "competitor_ahead": {
+        "car_id": "CAR_44",
+        "distance_ahead_m": 52.0,
+        "relative_speed_kmh": -1.8
+    }
+}
