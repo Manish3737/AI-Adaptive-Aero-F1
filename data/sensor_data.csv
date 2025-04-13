@@ -1,0 +1,6 @@
+time,speed_kmh,cornering,track_temp,competitor_gap_s
+0,290,False,38.1,1.2
+1,278,True,37.9,0.6
+2,260,True,37.8,0.4
+3,310,False,38.0,2.1
+4,295,True,38.2,0.8
